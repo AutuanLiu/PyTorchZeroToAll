@@ -6,3 +6,5 @@ numpy==1.13.3
 torch
 torchvision==0.1.9
 Unidecode==0.04.21
+
+pillow>=6.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
