@@ -8,3 +8,5 @@ torchvision==0.1.9
 Unidecode==0.04.21
 
 pillow>=6.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
